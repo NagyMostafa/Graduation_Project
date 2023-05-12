@@ -1,0 +1,4 @@
+#Tue Jul 06 02:30:21 EET 2021
+base.0=F\:\\GP\\graduationproject\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
